@@ -10,4 +10,4 @@ _Company names with a ⚠️️️ icon next to them. This icon means we don't h
 
 Name | Website | Region
 ------------ | ------- | -------
-[Megsoft](/company-profiles/megsoft.md) ⚠️️ | https://megsoftconsulting.com/ | USA, Offices in Odenton, Maryland
+[Megsoft](/src/jobs/company-profiles/megsoft.md) ⚠️️ | https://megsoftconsulting.com/ | USA, Offices in Odenton, Maryland
