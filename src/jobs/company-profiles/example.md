@@ -6,7 +6,7 @@ Insert a little bit about your company here.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc...
 
 ## Remote or local status
 
