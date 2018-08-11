@@ -15,7 +15,7 @@ Here you can find information about:
 
 ## Want to contribute?
 
-If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](https://github.com/xamarinuniverse/XamarinUniversalLibrary/CODE_OF_CONDUCT.md).
+If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](https://github.com/xamarinuniverse/XamarinUniversalLibrary/blob/master/CodeOfConduct.md).
 
 There are several ways in which you can contribute. Here are some:
 
@@ -27,7 +27,8 @@ Of course you are more than welcome to submit other features and bugfixes as wel
 
 ## Want to know more?
 
-If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/universal-xamarin-library).
+- If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/universal-xamarin-library).
+- Ask direcltly in our [facebook](https://www.facebook.com/groups/182880438998247/) or [telegram](https://t.me/joinchat/B4AGWhFRPcNHt6tn7MZR8Q) group(EN). Or in this [facebook](https://www.facebook.com/groups/504716559967164/) or [telegram](https://t.me/joinchat/B4AGWhJ2bt4WhMvYx65_rA) group(ES) in spanish.  
 
 ## Acknowledgements
 
