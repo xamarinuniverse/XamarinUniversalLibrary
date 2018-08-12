@@ -17,6 +17,6 @@ Pull requests will be accepted based on the following:
 
 Please adhere to the [Contributor Code of Conduct](CodeOfConduct.md).
 
-## And the most important...
+## And the most important
 
-Thanks for contributing! You make this posible. 
+Thanks for contributing! You make this posible.
