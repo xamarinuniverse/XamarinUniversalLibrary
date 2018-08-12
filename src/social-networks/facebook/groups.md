@@ -1,4 +1,4 @@
-# Facebook
+# Facebook groups
 
 This is the list of groups related with Xamarin in facebook. If you want to contribute here firts see the [contributing guidelines](contributing-guidelines.md) for this section.
 
