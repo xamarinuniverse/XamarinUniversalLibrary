@@ -23,7 +23,16 @@ There are several ways in which you can contribute. Here are some:
 - Share this repository with everyone who uses xamarin (people, teams, communities, companies or any other entity).
 - Invite others to share this project and continue to spread the word.
 
-Of course you are more than welcome to submit other features and bugfixes as well.
+>Of course you are more than welcome to submit other features and bugfixes as well.
+
+### Want to add a new section or sub-section?
+
+Pull requests will be accepted based on the following:
+
+1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
+1. If you submit the section with a general `README.md file` \*
+1. If you submit the section with a `contributing-guidelines.md`. Please see others guidelines and follow same pattern. 
+1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
 
 ## Want to know more?
 
