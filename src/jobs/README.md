@@ -2,6 +2,11 @@
 
 This section contains the local and remote jobs that use xamarin as a tool for the development of mobile applications.
 
+Here we have:
+
+- [Local Jobs](remote.md)
+- [Remote Jobs](local.md)
+
 ## Want to contribute?
 
 Contributions are very welcome! Please read the [contribution guidelines](/src/jobs/contributing-guidelines.md) and complete a [Pull Request template](/src/jobs/pull-request-template.md) for all new submissions.
