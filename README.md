@@ -13,6 +13,8 @@ Here you can find information about:
 - Resources of interest
 - Among other things…
 
+See all the content [here](src).
+
 ## Want to contribute
 
 If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](https://github.com/xamarinuniverse/XamarinUniversalLibrary/blob/master/CodeOfConduct.md).
