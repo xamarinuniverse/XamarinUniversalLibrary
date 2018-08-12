@@ -8,7 +8,7 @@ Here you can find information about:
 
 - Jobs (Remote and local)
 - Social networks (Facebook groups, YouTube channels, Telegram chat, etc.)
-- Online courses (Payments and free)
+- Online courses (Paid and free)
 - Programs and podcast
 - Resources of interest
 - Among other things…
