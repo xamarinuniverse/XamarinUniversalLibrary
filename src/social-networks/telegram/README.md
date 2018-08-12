@@ -1,6 +1,6 @@
 # Telegram
 
-This section contains the channels related to Xamarin on telegram.
+This section contains the [channels](channels.md) related to Xamarin on telegram.
 
 ## Want to contribute?
 
