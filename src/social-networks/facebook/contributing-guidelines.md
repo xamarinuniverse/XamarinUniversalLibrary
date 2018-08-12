@@ -23,6 +23,7 @@ Pull requests will be accepted based on the following:
 1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
 1. If you add the page in alphabetical order in the list
 1. If you submit the page and link the page `Name` to it
+1. If you submit the page `Tags`. (Minimum 2, Maximum 5)
 1. If you submit the page code `Language`. This language code should be in [ISO 639-1 format](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) \*
 
 > **Note:** The content should be only about xamarin or related at least. And only administrators or moderators can send pull request to this section. This to validate that they grant us the permission to publish it here. 
