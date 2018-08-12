@@ -8,7 +8,7 @@ Pull requests will be accepted based on the following:
 
 1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
 1. If you add the course in alphabetical order in the list
-1. If you submit the course and link the course `Name` to it
+1. If you submit a course profile page and link the course `Name` to it (see example [here](course-profiles/example.md))
 1. If you submit the course `Tags`. (Minimum 2, Maximum 5)
 1. If you submit the course `Level`. (beginners, intermediate, advanced)
 1. If you submit the course code `Language`. This language code should be in [ISO 639-1 format](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) \*

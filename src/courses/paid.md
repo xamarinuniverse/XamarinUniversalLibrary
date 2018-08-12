@@ -6,5 +6,5 @@ This is the list of courses related with Xamarin. If you want to contribute here
 
 ## Courses
 
-Name | Tags | Level | Language
+Name | Website | Level | Language
 ------------ | ------- | ------- | -------
