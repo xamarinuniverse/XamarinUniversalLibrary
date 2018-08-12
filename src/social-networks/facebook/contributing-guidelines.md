@@ -12,6 +12,7 @@ Pull requests will be accepted based on the following:
 1. If the group have at least 100 members.
 1. If you add the group in alphabetical order in the list
 1. If you submit the group and link the group `Name` to it
+1. If you submit the group `Tags`. (Minimum 2, Maximum 5)
 1. If you submit the group with a `Type` (public, secret, private, etc)
 1. If you submit the group code `Language`. This language code should be in [ISO 639-1 format](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) \*
 
