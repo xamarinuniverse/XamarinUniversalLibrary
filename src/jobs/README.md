@@ -4,8 +4,8 @@ This section contains the local and remote jobs that use xamarin as a tool for t
 
 Here we have:
 
-- [Local Jobs](remote.md)
-- [Remote Jobs](local.md)
+- [Remote Jobs](remote.md)
+- [Local Jobs](local.md)
 
 ## Want to contribute?
 
