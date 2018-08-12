@@ -7,7 +7,7 @@ Here we have:
 - [Remote Jobs](remote.md)
 - [Local Jobs](local.md)
 
-## Want to contribute?
+## Want to contribute
 
 Contributions are very welcome! Please read the [contribution guidelines](/src/jobs/contributing-guidelines.md) and complete a [Pull Request template](/src/jobs/pull-request-template.md) for all new submissions.
 

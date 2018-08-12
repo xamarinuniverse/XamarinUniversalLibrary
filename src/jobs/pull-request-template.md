@@ -1,3 +1,5 @@
+# Pull Request Template
+
 This is a modified version of the [Contributing Guidelines](/src/jobs/contributing-guidelines.md). This pull request adheres to the repository's [Code of Conduct](/CodeOfConduct.md).
 
 ## Template

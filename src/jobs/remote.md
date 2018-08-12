@@ -10,4 +10,4 @@ _Company names with a ⚠️️️ icon next to them. This icon means we don't h
 
 Name | Website | Region
 ------------ | ------- | -------
-[Example](/src/jobs/company-profiles/example.md) ⚠️️ | https://example.com/ | USA, Offices in Miami
+[Example](/src/jobs/company-profiles/example.md) ⚠️️ | example.com | USA, Offices in Miami
