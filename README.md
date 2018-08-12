@@ -2,7 +2,7 @@
 
 Hi! Welcome to Xamarin Universal Library!
 
-This is a universal library that contains everything we need to know about the Xamarin universe. This is an open source project from the community to the community.
+This is a universal library that contains everything we need to know about the Xamarin universe. Xamarin Universal Library is an open source project from the community to the community.
 
 Here you can find information about:
 
@@ -35,6 +35,8 @@ Pull requests will be accepted based on the following:
 1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
 
 ## Want to know more
+
+> Xamarin Universal Library is not affiliated with Xamarin Inc. or Microsoft. This is a open-source project maintained by the community for the community.
 
 - If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/universal-xamarin-library).
 - Ask direcltly in our [facebook](https://www.facebook.com/groups/182880438998247/) or [telegram](https://t.me/joinchat/B4AGWhFRPcNHt6tn7MZR8Q) group(EN). Or in this [facebook](https://www.facebook.com/groups/504716559967164/) or [telegram](https://t.me/joinchat/B4AGWhJ2bt4WhMvYx65_rA) group(ES) in spanish.  
