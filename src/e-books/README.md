@@ -1,6 +1,6 @@
 # E-books
 
-This section contains the [e-books](e-books.md) related to xamarin.
+This section contains the e-books related to xamarin. Here you can find [free](free.md) and [paid](paid.md) e-books.
 
 ## Want to contribute
 
