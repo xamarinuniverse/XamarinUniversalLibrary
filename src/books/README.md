@@ -1,6 +1,6 @@
 # Books
 
-This section contains the [books](books.md) related to xamarin.
+This section contains the [books](books.md) related to xamarin. Here you can find [free](free.md) and [paid](paid.md) books.
 
 ## Want to contribute
 
