@@ -8,5 +8,5 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
 ## Showcases
 
-Name | Description | Platforms
------------- | ------- | -------
+Name | Description | Developed by |  Platforms
+------------ | ------- | ------- | ---
