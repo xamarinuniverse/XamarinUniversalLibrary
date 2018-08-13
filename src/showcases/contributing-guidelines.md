@@ -10,7 +10,7 @@ Pull requests will be accepted based on the following:
 1. If you add the showcase in alphabetical order in the list
 1. If you submit the showcase and link the showcase `Name` to it
 1. If you submit the showcase with a short one line description.
-1. If you submit the showcase and link the showcase `Developed by` to the company or developer who developed the case.
+1. If you submit the showcase and link the showcase `Developed by` to the company or developer page who developed the case.
 1. If you submit the showcase and link the showcase `Platform` to the store app. e.g.: (Android, iOS, WindowsPhone)
 
 ### Optional, but highly recommended
