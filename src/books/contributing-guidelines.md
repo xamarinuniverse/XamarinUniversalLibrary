@@ -6,7 +6,7 @@ Please send a Pull Request if you have any additions or changes.
 
 Pull requests will be accepted based on the following:
 
-1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
+1. The pull request adheres to the repository's [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
 1. If you add the book in alphabetical order in the list
 1. If you submit a book profile page and link the book `Name` to it (see example [here](book-profiles/example.md))
 1. If you submit a book `Website` page.
@@ -14,7 +14,7 @@ Pull requests will be accepted based on the following:
 
 ### Optional, but highly recommended
 
-Please adhere to the [Contributor Code of Conduct](CodeOfConduct.md).
+Please adhere to the [Contributor Code of Conduct](/.github/CODE_OF_CONDUCT.md).
 
 ## And the most important
 
