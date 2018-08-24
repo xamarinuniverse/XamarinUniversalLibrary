@@ -8,3 +8,4 @@ This is the list of e-books related with Xamarin. If you want to contribute here
 
 Name | Website | Language
 ------------ | ------- | -------
+[Xamarin Blueprints](e-book-profiles/Xamarin-Blueprints.md) | https://www.packtpub.com/web-development/xamarin-blueprints | English
