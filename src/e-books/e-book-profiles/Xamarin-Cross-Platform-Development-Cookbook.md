@@ -1,4 +1,4 @@
-# XAMARIN CROSS-PLATFORM DEVELOPMENT COOKBOOK
+# Xamarin Cross-Platform Development Cookbook
 
 ## E-book blurb
 
