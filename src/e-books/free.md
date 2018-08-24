@@ -10,4 +10,4 @@ Name | Website | Language
 ------------ | ------- | -------
 [Creating Mobile Apps with Xamarin.Forms](e-book-profiles/creating-mobile-apps-with-xamarin-forms.md) | https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/ | English
 [Enterprise Application Patterns using Xamarin.Forms](e-book-profiles/enterprise-application-patterns-using-xamarin-forms.md) | https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/ | English
-[XAMARIN CROSS-PLATFORM DEVELOPMENT COOKBOOK](XAMARIN-CROSS-PLATFORM-DEVELOPMENT-COOKBOOK.md) | https://www.packtpub.com/free-ebook/xamarin-cross-platform-development-cookbook | English
+[XAMARIN CROSS-PLATFORM DEVELOPMENT COOKBOOK](e-book-profiles/XAMARIN-CROSS-PLATFORM-DEVELOPMENT-COOKBOOK.md) | https://www.packtpub.com/free-ebook/xamarin-cross-platform-development-cookbook | English
