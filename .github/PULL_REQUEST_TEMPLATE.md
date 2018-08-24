@@ -2,7 +2,7 @@
 If you want to contribute please read and check the boxes below.
  -->
 
-:pencil2: **Section**: <!-- example: Books -->
+:pencil2: **Section**: <!-- example: Books,Courses, Jobs, etc.. -->
 
 By sending this pull request to contribute I verify that I adhere to the Xamarin Universal Library guidelines<!-- (please check each item that applies)-->:
 
