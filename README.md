@@ -4,16 +4,16 @@ Hi! Welcome to Xamarin Universal Library!
 
 This is a universal library that contains everything we need to know about the Xamarin universe. Xamarin Universal Library is an open source project from the community to the community.
 
-Here you can find information about:
+Here we have the following sections:
 
-- Jobs (Remote and local)
-- Social networks (Facebook groups, YouTube channels, Telegram chat, etc.)
-- Online courses (Paid and free)
-- Programs and podcast
-- Resources of interest
-- Among other things…
+- [Books](/src/books) 
+- [Courses](/src/courses)
+- [E-books](/src/e-books)
+- [Images](/src/images/)
+- [Jobs](/src/jobs/)
+- [Social networks](/src/social-networks)
 
-See all the content [here](src).
+See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section). 
 
 ## Want to contribute
 
