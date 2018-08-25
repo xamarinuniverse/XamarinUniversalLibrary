@@ -1,4 +1,4 @@
-# Xamarin Universal Library
+# Xamarin Universal Library :book:
 
 Hi! Welcome to Xamarin Universal Library!
 
@@ -16,7 +16,7 @@ Here we have the following sections:
 
 See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section). 
 
-## Want to contribute
+## Want to contribute :pencil2:
 
 If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](https://github.com/xamarinuniverse/XamarinUniversalLibrary/blob/master/CodeOfConduct.md).
 
@@ -37,13 +37,13 @@ Pull requests will be accepted based on the following:
 1. If you submit the section with a `contributing-guidelines.md`. Please see others guidelines and follow same pattern.
 1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
 
-## Want to know more
+## Want to know more :sunglasses:
 
 > Xamarin Universal Library is not affiliated with Xamarin Inc. or Microsoft. This is a open-source project maintained by the community for the community.
 
 - If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/universal-xamarin-library).
 - Ask direcltly in our [facebook](https://www.facebook.com/groups/182880438998247/) or [telegram](https://t.me/joinchat/B4AGWhFRPcNHt6tn7MZR8Q) group(EN). Or in this [facebook](https://www.facebook.com/groups/504716559967164/) or [telegram](https://t.me/joinchat/B4AGWhJ2bt4WhMvYx65_rA) group(ES) in spanish.  
 
-## Acknowledgements
+## Acknowledgements :muscle:
 
 Thanks to all of you and [our awesome contributors](https://github.com/xamarinuniverse/XamarinUniversalLibrary/graphs/contributors) who make this all possible.
