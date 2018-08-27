@@ -8,6 +8,8 @@ By sending this pull request to contribute I verify that I adhere to the Xamarin
 
 - [ ] The pull request adheres to the repository's `Code of Conduct`.
 - [ ] I have fallowed the section's `Contributing Guidelines`.
+- [ ] I understand, `Titles` should be capitalized. I have checked the grammar.
+- [ ] I have searched for previous suggestions before making this new one, as mine could be a duplicate.
 - [ ] I understand, my contribution may be removed at any time if any of these guidelines are broken.
 - [ ] The submitted contribution is not owned by a company which sole purpose it is to advertise a product of product line.
 
