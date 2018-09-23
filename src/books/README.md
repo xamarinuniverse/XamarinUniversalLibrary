@@ -11,3 +11,4 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 Name | Website | Language
 ------------ | ------- | -------
 [Xamarin Mobile Application Development](book-profiles/Xamarin%20Mobile%20Application%20Development.md) | [Amazon](https://www.amazon.com/Xamarin-Mobile-Application-Development-Cross-Platform/dp/1484202155/) | English
+[Azure and Xamarin Forms](book-profiles/Azure-and-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Azure-Xamarin-Forms-Platform-Development/dp/1484235606/) | English
