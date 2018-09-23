@@ -11,5 +11,6 @@ Name | Website | Language
 [Mastering Xamarin UI Development](e-books/e-book-profiles/Mastering%20Xamarin%20UI%20Development.md) | [Amazon](https://www.amazon.com/Mastering-Xamarin-Development-Steven-Daniel/dp/1786462001/) | English
 [Mastering Xamarin UI Development - Second Edition](e-book-profiles/Mastering%20Xamarin%20UI%20Development%20second%20edition.md) | [Amazon](https://www.amazon.com/Mastering-Xamarin-Development-maintainable-cross-platform-ebook/dp/B07G8D7RRT/) | English
 [Xamarin Blueprints](e-book-profiles/Xamarin-Blueprints.md) | [PacktPub](https://www.packtpub.com/web-development/xamarin-blueprints) | English
+[Xamarin: Cross-Platform Mobile Application Development](e-book-profiles/Xamarin-Cross-Platform-Mobile-Application-Development.md) | [Amazon](https://www.amazon.com/Xamarin-Cross-Platform-Mobile-Application-Development-ebook/dp/B01LD8K5ZM/) | English
 [Xamarin in Action](e-books/e-book-profiles/Xamarin-in-Action.md) | [Manning](https://www.manning.com/books/xamarin-in-action) | English
 [Xamarin.Forms Essentials](e-books/e-book-profiles/Xamarin.Forms%20Essentials.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Essentials-Toward-Cross-Platform-Mobile-ebook/dp/B077WRC6CP/) | English
