@@ -1,6 +1,6 @@
 # Xamarin Resources
 
-This section contains the books related to xamarin.
+This section contains the resources related to xamarin.
 
 ## Want to contribute
 
