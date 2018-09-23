@@ -11,9 +11,11 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 Name | Website | Language
 ------------ | ------- | -------
 [Azure and Xamarin Forms](book-profiles/Azure-and-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Azure-Xamarin-Forms-Platform-Development/dp/1484235606/) | English
+[Building Apps for the Universal Windows Platform](book-profiles/Building-Apps-Universal-Windows-Platform.md) | [Amazon](https://www.amazon.com/Building-Apps-Universal-Windows-Platform-dp-1484226283/dp/1484226283/) | English
 [Beginning Visual Studio for Mac](book-profiles/Azure-and-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Beginning-Visual-Studio-Mac-Cross-Platform/dp/1484230329/) | English
 [Beginning Xamarin Development for the Mac](book-profiles/Beginning-Xamarin-Development-for-the-Mac.md) | [Amazon](https://www.amazon.com/Beginning-Xamarin-Development-Mac-Xamarin-iOS/dp/1484231317/) | English
 [iOS Development with Xamarin Cookbook](book-profiles/Beginning-Visual-Studio-for-Mac.md) | [Amazon](https://www.amazon.com/iOS-Development-Xamarin-Cookbook-Strategies-ebook-dp-B00KJX443C/dp/B00KJX443C/) | English
+[The Art of Xamarin Forms](book-profiles/The-Art-of-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Art-Xamarin-Forms-Alex-Davidson/dp/1540658201/) | English
 [Using MVVM Light with your Xamarin Apps](book-profiles/Using-MVVM-Light-with-your-Xamarin-Apps.md) | [Amazon](https://www.amazon.com/Using-MVVM-Light-your-Xamarin-dp-1484224744/dp/1484224744/) | English
 [Xamarin 4 By Example](book-profiles/Xamarin-4-By-Example.md) | [Amazon](https://www.amazon.com/Xamarin-4-Example-Matteo-Bortolu-ebook/dp/B01I3OT0SW/) | English
 [Xamarin 4.x Cross-Platform Application Development - Third Edition](book-profiles/Xamarin-4.x-Cross-Platform-Application-Development.md) | [Amazon](https://www.amazon.com/Xamarin-4-x-Cross-Platform-Application-Development/dp/1786465418/) | English
