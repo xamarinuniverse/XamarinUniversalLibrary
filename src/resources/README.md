@@ -10,5 +10,5 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
 Name | Description
 ------------ | ------- 
-[Awesome Xamarin](https://github.com/luismts/awesome-xamarin-1) | A curated list of awesome Xamarin ports, bindings, tutorials and much more! 
+[Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) | A curated list of awesome Xamarin ports, bindings, tutorials and much more! 
 [Planet Xamarin](https://www.planetxamarin.com/) | Aggregator of content from Xamarin Community members. 
