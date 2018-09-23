@@ -15,4 +15,4 @@ Name | Website | Language
 [iOS Development with Xamarin Cookbook](book-profiles/Beginning-Visual-Studio-for-Mac.md) | [Amazon](https://www.amazon.com/iOS-Development-Xamarin-Cookbook-Strategies-ebook-dp-B00KJX443C/dp/B00KJX443C/) | English
 [Xamarin.Forms Kickstarter 2.0](book-profiles/Xamarin.Forms-Kickstarter-2.0.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Kickstarter-2-0-Compilable-Cross-platform/dp/1523254629/) | English
 [Xamarin Mobile Application Development](book-profiles/Xamarin%20Mobile%20Application%20Development.md) | [Amazon](https://www.amazon.com/Xamarin-Mobile-Application-Development-Cross-Platform/dp/1484202155/) | English
-
+[Xamarin Unleashed](books/book-profiles/Xamarin-Unleashed.md) | [Amazon](https://www.amazon.es/Xamarin-Unleashed-Alec-Tucker/dp/0672337509) | English
