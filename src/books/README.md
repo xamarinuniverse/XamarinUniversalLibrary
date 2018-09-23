@@ -12,6 +12,7 @@ Name | Website | Language
 ------------ | ------- | -------
 [Azure and Xamarin Forms](book-profiles/Azure-and-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Azure-Xamarin-Forms-Platform-Development/dp/1484235606/) | English
 [Beginning Visual Studio for Mac](book-profiles/Azure-and-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Beginning-Visual-Studio-Mac-Cross-Platform/dp/1484230329/) | English
+[Beginning Xamarin Development for the Mac](book-profiles/Beginning-Xamarin-Development-for-the-Mac.md) | [Amazon](https://www.amazon.com/Beginning-Xamarin-Development-Mac-Xamarin-iOS/dp/1484231317/) | English
 [iOS Development with Xamarin Cookbook](book-profiles/Beginning-Visual-Studio-for-Mac.md) | [Amazon](https://www.amazon.com/iOS-Development-Xamarin-Cookbook-Strategies-ebook-dp-B00KJX443C/dp/B00KJX443C/) | English
 [Xamarin 4 By Example](book-profiles/Xamarin-4-By-Example.md) | [Amazon](https://www.amazon.com/Xamarin-4-Example-Matteo-Bortolu-ebook/dp/B01I3OT0SW/) | English
 [Xamarin 4.x Cross-Platform Application Development - Third Edition](book-profiles/Xamarin-4.x-Cross-Platform-Application-Development.md) | [Amazon](https://www.amazon.com/Xamarin-4-x-Cross-Platform-Application-Development/dp/1786465418/) | English
