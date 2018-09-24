@@ -27,4 +27,6 @@ Name | Website | Language
 [Xamarin.Forms Kickstarter 2.0](book-profiles/Xamarin.Forms-Kickstarter-2.0.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Kickstarter-2-0-Compilable-Cross-platform/dp/1523254629/) | English
 [Xamarin.Forms Solutions](book-profiles/Xamarin.Forms-Solutions.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Solutions-Gerald-Versluis/dp/1484241339/) | English
 [Xamarin Mobile Application Development](book-profiles/Xamarin%20Mobile%20Application%20Development.md) | [Amazon](https://www.amazon.com/Xamarin-Mobile-Application-Development-Cross-Platform/dp/1484202155/) | English
-[Xamarin Unleashed](books/book-profiles/Xamarin-Unleashed.md) | [Amazon](https://www.amazon.es/Xamarin-Unleashed-Alec-Tucker/dp/0672337509) | English
+[Xamarin Mobile Application Development for Android](book-profiles/Xamarin-Mobile-Application-Development-Android.md) | [Amazon](https://www.amazon.com/Xamarin-Mobile-Application-Development-Android/dp/1783559160/) | English
+[Xamarin Studio for Android Programming: A C# Cookbook](book-profiles/Xamarin-Studio-Android-Programming.md) | [Amazon](https://www.amazon.com/Xamarin-Studio-Android-Programming-Cookbook-dp-1849691401/dp/1849691401/) | English
+[Xamarin Unleashed](book-profiles/Xamarin-Unleashed.md) | [Amazon](https://www.amazon.es/Xamarin-Unleashed-Alec-Tucker/dp/0672337509) | English
