@@ -15,6 +15,7 @@ Name | Website | Language
 [Beginning Xamarin Development for the Mac](book-profiles/Beginning-Xamarin-Development-for-the-Mac.md) | [Amazon](https://www.amazon.com/Beginning-Xamarin-Development-Mac-Xamarin-iOS/dp/1484231317/) | English
 [Building Apps for the Universal Windows Platform](book-profiles/Building-Apps-Universal-Windows-Platform.md) | [Amazon](https://www.amazon.com/Building-Apps-Universal-Windows-Platform-dp-1484226283/dp/1484226283/) | English
 [Cross-platform Localization for Native Mobile Apps with Xamarin](book-profiles/Cross-platform-Localization-Native-Mobile-Apps-Xamarin.md) | [Amazon](https://www.amazon.com/Cross-platform-Localization-Native-Mobile-Xamarin-dp-1484224655/dp/1484224655/) | English
+[Learn XAMARIN: Master your skills on developing mobile apps](book-profiles/Learn-XAMARIN.md) | [Amazon](https://www.amazon.com/Learn-XAMARIN-Master-skills-developing/dp/1982049235/) | English
 [Learning Xamarin Studio](book-profiles/Learning-Xamarin-Studio.md) | [Amazon](https://www.amazon.com/Learning-Xamarin-Studio-William-Smith-dp-1783550813/dp/1783550813/) | English
 [iOS Development with Xamarin Cookbook](book-profiles/iOS-Development-with-Xamarin-Cookbook.md) | [Amazon](https://www.amazon.com/iOS-Development-Xamarin-Cookbook-Strategies-ebook-dp-B00KJX443C/dp/B00KJX443C/) | English
 [The Art of Xamarin Forms](book-profiles/The-Art-of-Xamarin.Forms.md) | [Amazon](https://www.amazon.com/Art-Xamarin-Forms-Alex-Davidson/dp/1540658201/) | English
