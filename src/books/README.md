@@ -21,6 +21,8 @@ Name | Website | Language
 [Xamarin 4 By Example](book-profiles/Xamarin-4-By-Example.md) | [Amazon](https://www.amazon.com/Xamarin-4-Example-Matteo-Bortolu-ebook/dp/B01I3OT0SW/) | English
 [Xamarin 4.x Cross-Platform Application Development - Third Edition](book-profiles/Xamarin-4.x-Cross-Platform-Application-Development.md) | [Amazon](https://www.amazon.com/Xamarin-4-x-Cross-Platform-Application-Development/dp/1786465418/) | English
 [Xamarin Continuous Integration and Delivery](book-profiles/Xamarin-Continuous-Integration-and-Delivery.md) | [Amazon](https://www.amazon.com/Xamarin-Continuous-Integration-Delivery-HockeyApp/dp/1484227158/) | English
+[Xamarin Interview Questions and Answers](book-profiles/Xamarin-Interview-Questions-and-Answers.md) | [Amazon](https://www.amazon.com/Xamarin-Interview-Questions-Answers/dp/1522044248/) | English
+[Xamarin.Forms en acción: Aplicaciones de negocio](book-profiles/Xamarin.Forms-en-acción.md) | [Amazon](https://www.amazon.com/XAMARIN-FORMS-EN-ACCION-APLICACIONES-NEGOCIO/dp/8494465090/) | Spanish
 [Xamarin Forms: For Starters](book-profiles/Xamarin.Forms-For-Starters.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Starters-Anglea-Tanner/dp/1540604144/) | English
 [Xamarin.Forms Kickstarter 2.0](book-profiles/Xamarin.Forms-Kickstarter-2.0.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Kickstarter-2-0-Compilable-Cross-platform/dp/1523254629/) | English
 [Xamarin.Forms Solutions](book-profiles/Xamarin.Forms-Solutions.md) | [Amazon](https://www.amazon.com/Xamarin-Forms-Solutions-Gerald-Versluis/dp/1484241339/) | English
