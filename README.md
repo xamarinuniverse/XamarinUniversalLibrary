@@ -21,7 +21,7 @@ See all the content [here](src). Didn't find the section you were looking for? T
 
 ## Want to contribute :pencil2:
 
-If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](https://github.com/xamarinuniverse/XamarinUniversalLibrary/blob/master/CodeOfConduct.md).
+If you use Xamarin, you belong here. You're welcome to add your suggestions and have it aggregated as part of our library as long as the content you are sharing does not violate the community [code of conduct](/.github/CODE_OF_CONDUCT.md).
 
 There are several ways in which you can contribute. Here are some:
 
@@ -35,7 +35,7 @@ There are several ways in which you can contribute. Here are some:
 
 Pull requests will be accepted based on the following:
 
-1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
+1. The pull request adheres to the repository's [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
 1. If you submit the section with a general `README.md file` \*
 1. If you submit the section with a `contributing-guidelines.md`. Please see others guidelines and follow same pattern.
 1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
