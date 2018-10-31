@@ -6,4 +6,4 @@ This is the list of courses related with Xamarin. If you want to contribute here
 
 Name | Website | Level | Language
 ------------ | ------- | ------- | -------
-[Xamarin University](/course-profiles/Xamarin-University.md) | [Xamarin University](https://university.xamarin.com/) | beginner/master | EN
+[Xamarin University](course-profiles/Xamarin-University.md) | [Xamarin University](https://university.xamarin.com/) | beginner/master | EN

@@ -7,7 +7,7 @@ If you want to contribute please read and check the boxes below.
 By sending this pull request to contribute I verify that I adhere to the Xamarin Universal Library guidelines<!-- (please check each item that applies)-->:
 
 - [ ] The pull request adheres to the repository's `Code of Conduct`.
-- [ ] I have fallowed the section's `Contributing Guidelines`.
+- [ ] I have followed the section's `Contributing Guidelines`.
 - [ ] I understand, `Titles` should be capitalized. I have checked the grammar.
 - [ ] I have searched for previous suggestions before making this new one, as mine could be a duplicate.
 - [ ] I understand, my contribution may be removed at any time if any of these guidelines are broken.

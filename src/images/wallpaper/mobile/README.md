@@ -10,4 +10,4 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
 Name | Author
 ------------ | -------
-[Wallpaper Colletion](https://github.com/luismts/Xamarin-wallpapers)  | [Luis Matos](luismts.com)
+[Wallpaper Collection](https://github.com/luismts/Xamarin-wallpapers)  | [Luis Matos](luismts.com)
