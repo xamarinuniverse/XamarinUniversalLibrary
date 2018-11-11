@@ -16,6 +16,7 @@ Pull requests will be accepted based on the following:
 
 > **Note:**
 >- If the community has less than 100 members, it will be validated that the group is active. If it is not active, the request will not be accepted.
+>- Officials pages need to have "Official" at the beginning in the name. 
 
 ### Optional, but highly recommended
 
