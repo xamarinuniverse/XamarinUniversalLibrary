@@ -7,7 +7,8 @@ This is a universal library that contains everything we need to know about the X
 
 Here we have the following sections:
 
-- [Books](/src/books) 
+- [Articles](/src/articles)
+- [Books](/src/books)
 - [Courses](/src/courses)
 - [E-books](/src/e-books)
 - [Images](/src/images/)
