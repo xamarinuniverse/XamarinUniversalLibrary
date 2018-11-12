@@ -45,7 +45,7 @@ Pull requests will be accepted based on the following:
 
 > Xamarin Universal Library is not affiliated with Xamarin Inc. or Microsoft. This is a open-source project maintained by the community for the community.
 
-- If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/universal-xamarin-library).
+- If you want to know a little more about this project, you can visit the following [link](https://luismts.com/blog/xamarin/xamarin-universal-library/).
 - Ask direcltly in our [facebook](https://www.facebook.com/groups/182880438998247/) group(EN). Or in this [facebook](https://www.facebook.com/groups/504716559967164/) group(ES) in spanish.  
 
 ## Acknowledgements :muscle:
