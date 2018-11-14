@@ -6,10 +6,9 @@ This section contains the must have to read articles about to Xamarin.
 
 Contributions are very welcome! Please read the [contribution guidelines](contributing-guidelines.md) and send your Pull Request to this repository for all new submissions.
 
-## Contents
+## Topics
 
-- [Categories](#categories):
-  - [Architecture](#architecture)
+  - [Architecture](article-topics/Architecture.md)
   - [Background services](#background-services)
   - [Binding Libraries](#binding-libraries)
   - [Bluetooth](#bluetooth)
@@ -28,15 +27,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
 - [Series of Articles](series-of-articles)
-
-## Categories
-
-### Architecture
-
-Name | Language
----- | --------
-[Cross-Platform Architecture](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_2_-_architecture/) | EN
-[Xamarin Forms Architectural Guidance](https://xamarinhelp.com/xamarin-forms-architectural-guidance/) | EN
 
 ### Background services
 
