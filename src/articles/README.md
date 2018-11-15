@@ -10,7 +10,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
   - [Architecture](article-topics/Architecture.md)
   - [Background services](article-topics/Background-services.md)
-  - [Binding Libraries](#binding-libraries)
+  - [Binding Libraries](article-topics/Binding-Libraries.md)
   - [Bluetooth](#bluetooth)
   - [Features](#features)
   - [Linker](#linker)
@@ -27,14 +27,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
 - [Series of Articles](series-of-articles)
-
-### Binding Libraries
-
-Name | Language
----- | --------
-[Approaching a Xamarin.Android Bindings Case](https://gist.github.com/JonDouglas/dda6d8ace7d071b0e8cb) | EN
-[Binding Swift Libraries — Xamarin.iOS](https://medium.com/@Flash3001/binding-swift-libraries-xamarin-ios-ff32adbc7c76) | EN
-[Creating Xamarin.Android Binding Library](https://xamarinhelp.com/creating-xamarin-android-binding-library/) | EN
 
 ### Bluetooth
 
