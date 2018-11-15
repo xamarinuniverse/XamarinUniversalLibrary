@@ -1,7 +1,5 @@
 # Background Services
 
-## Description
-
 This topic contains articles about how to use background services in Xamarin applications.
 
 ## Articles
