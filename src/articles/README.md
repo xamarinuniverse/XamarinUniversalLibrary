@@ -14,7 +14,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Bluetooth](article-topics/Bluetooth.md)
   - [Features](#features)
   - [Linker](article-topics/Linker.md)
-  - [Media](#media)
+  - [Media](article-topics/Media.md)
   - [Memory](#memory)
   - [MVVM](#mvvm)
   - [Network](#network)
@@ -36,13 +36,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Media
-
-Name | Language
----- | --------
-[Delivering Rich Media Experiences with the Xamarin.Forms Video Player](https://blog.xamarin.com/delivering-rich-media-experiences-xamarin-forms-video-player/) | EN
-[Xamarin Forms Android – using ExoPlayer in your app](http://www.pshul.com/2018/02/09/xamarin-forms-android-using-exoplayer-in-your-app/) | EN
 
 ### Memory
 
