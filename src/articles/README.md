@@ -18,7 +18,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Memory](#memory)
   - [MVVM](article-topics/Mvvm.md)
   - [Network](#network)
-  - [Performance](#performance)
+  - [Performance](article-topics/Performance.md)
   - [Plugins](#plugins)
   - [Profiling](#profiling)
   - [Proguard](#proguard)
@@ -50,14 +50,6 @@ Name | Language
 ---- | --------
 [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications) | EN
 [The Many Flavors of HttpClient](https://kerry.lothrop.de/httpclient-flavors/) | EN
-
-### Performance
-
-Name | Language
----- | --------
-[Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/) | EN
-[Best Practices for Android Performance](https://developer.android.com/training/best-performance.html) | EN
-[Xamarin.Forms Performance on Android](https://jonathanpeppers.com/Blog/xamarin-forms-performance-on-android) | EN
 
 ### Plugins
 
