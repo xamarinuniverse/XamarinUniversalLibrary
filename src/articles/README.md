@@ -13,7 +13,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Binding Libraries](article-topics/Binding-Libraries.md)
   - [Bluetooth](article-topics/Bluetooth.md)
   - [Features](#features)
-  - [Linker](#linker)
+  - [Linker](article-topics/Linker.md)
   - [Media](#media)
   - [Memory](#memory)
   - [MVVM](#mvvm)
@@ -36,12 +36,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Linker
-
-Name | Language
----- | --------
-[Linker Analyzer](https://www.jon-douglas.com/2017/09/22/linker-analyzer/) | EN
 
 ### Media
 
