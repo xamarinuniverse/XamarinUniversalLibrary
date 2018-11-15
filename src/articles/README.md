@@ -16,7 +16,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Linker](article-topics/Linker.md)
   - [Media](article-topics/Media.md)
   - [Memory](#memory)
-  - [MVVM](#mvvm)
+  - [MVVM](article-topics/Mvvm.md)
   - [Network](#network)
   - [Performance](#performance)
   - [Plugins](#plugins)
@@ -43,13 +43,6 @@ Name | Language
 ---- | --------
 [Optimize Memory Usage in Xamarin Apps](https://www.chipsncookies.com/2017/optimize-memory-usage-in-xamarin-apps/) | EN
 [Xamarin.iOS Memory Pitfalls](https://thomasbandt.com/xamarinios-memory-pitfalls) | EN
-
-### MVVM
-
-Name | Language
----- | --------
-[Should I Use A Xamarin.Forms MVVM Framework?](https://xamarinhelp.com/use-xamarin-forms-mvvm-framework/) | EN
-[Xamarin.Forms ListView Advanced Guide With MVVM](https://doumer.me/xamarin-forms-listview-advanced-guide-with-mvvm/) | EN
 
 ### Network
 
