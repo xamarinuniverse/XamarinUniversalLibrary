@@ -9,7 +9,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 ## Topics
 
   - [Architecture](article-topics/Architecture.md)
-  - [Background services](#background-services)
+  - [Background services](article-topics/Background-services.md)
   - [Binding Libraries](#binding-libraries)
   - [Bluetooth](#bluetooth)
   - [Features](#features)
@@ -27,13 +27,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
 - [Series of Articles](series-of-articles)
-
-### Background services
-
-Name | Language
----- | --------
-[Backgrounding with Xamarin.Forms the Easy Way](https://winstongubantes.blogspot.com/2018/09/backgrounding-with-xamarinforms-easy-way.html) | EN
-[Periodic background service with Xamarin](https://github.com/wcoder/PeriodicBackgroundService) | EN
 
 ### Binding Libraries
 
