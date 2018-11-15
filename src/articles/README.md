@@ -11,7 +11,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Architecture](article-topics/Architecture.md)
   - [Background services](article-topics/Background-services.md)
   - [Binding Libraries](article-topics/Binding-Libraries.md)
-  - [Bluetooth](#bluetooth)
+  - [Bluetooth](article-topics/Bluetooth.md)
   - [Features](#features)
   - [Linker](#linker)
   - [Media](#media)
@@ -28,11 +28,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Under the Hood](#under-the-hood)
 - [Series of Articles](series-of-articles)
 
-### Bluetooth
-
-Name | Language
----- | --------
-[10 Tips About Bluetooth LE Development](http://www.xam-consulting.com/10-tips-about-bluetooth-le-development/) | EN
 
 ### Features
 
