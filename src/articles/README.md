@@ -22,7 +22,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Plugins](#plugins)
   - [Profiling](#profiling)
   - [Proguard](#proguard)
-  - [Security](#security)
+  - [Security](article-topics/Security.md)
   - [Setup](#setup)
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
@@ -76,12 +76,6 @@ Name | Language
 Name | Language
 ---- | --------
 [Xamarin.Android Proguard](https://www.jon-douglas.com/2016/11/22/xamarin-android-proguard/) | EN
-
-### Security
-
-Name | Language
----- | --------
-[Protecting Your Users with Certificate Pinning](https://basdecort.com/2018/07/18/protecting-your-users-with-certificate-pinning/) | EN
 
 ### Setup
 
