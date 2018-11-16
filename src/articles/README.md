@@ -21,7 +21,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Performance](article-topics/Performance.md)
   - [Plugins](#plugins)
   - [Profiling](#profiling)
-  - [Proguard](#proguard)
+  - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
   - [Setup](#setup)
   - [UI](#ui)
@@ -48,12 +48,6 @@ Name | Language
 Name | Language
 ---- | --------
 [Performance Profiling Your Xamarin Apps](https://visualstudiomagazine.com/articles/2015/12/01/xamarin-apps.aspx) | EN
-
-### Proguard
-
-Name | Language
----- | --------
-[Xamarin.Android Proguard](https://www.jon-douglas.com/2016/11/22/xamarin-android-proguard/) | EN
 
 ### Setup
 
