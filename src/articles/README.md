@@ -15,7 +15,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Features](#features)
   - [Linker](article-topics/Linker.md)
   - [Media](article-topics/Media.md)
-  - [Memory](#memory)
+  - [Memory](article-topics/Memory.md)
   - [MVVM](article-topics/Mvvm.md)
   - [Network](#network)
   - [Performance](article-topics/Performance.md)
@@ -36,13 +36,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Memory
-
-Name | Language
----- | --------
-[Optimize Memory Usage in Xamarin Apps](https://www.chipsncookies.com/2017/optimize-memory-usage-in-xamarin-apps/) | EN
-[Xamarin.iOS Memory Pitfalls](https://thomasbandt.com/xamarinios-memory-pitfalls) | EN
 
 ### Network
 
