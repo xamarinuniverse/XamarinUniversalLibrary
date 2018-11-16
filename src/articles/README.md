@@ -17,7 +17,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Media](article-topics/Media.md)
   - [Memory](article-topics/Memory.md)
   - [MVVM](article-topics/Mvvm.md)
-  - [Network](#network)
+  - [Network](article-topics/Network.md)
   - [Performance](article-topics/Performance.md)
   - [Plugins](#plugins)
   - [Profiling](#profiling)
@@ -36,13 +36,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Network
-
-Name | Language
----- | --------
-[Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications) | EN
-[The Many Flavors of HttpClient](https://kerry.lothrop.de/httpclient-flavors/) | EN
 
 ### Plugins
 
