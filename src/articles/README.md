@@ -22,17 +22,10 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Plugins](article-topics/Plugins.md)
   - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
-  - [Under the Hood](#under-the-hood)
   - [Setup](article-topics/Setup.md)
   - [UI](article-topics/UI.md)
+  - [Under the Hood](article-topics/Under-the-hood.md)
 - [Series of Articles](series-of-articles)
-
-### Under the Hood
-
-Name | Language
----- | --------
-[Xamarin.Android Startup Sequence](https://xamarinhelp.com/xamarin-android-startup-sequence/) | EN
-[Xamarin.iOS Under the Hood: Calling Objective-C from C#](https://jonathanpeppers.com/Blog/xamarin-ios-under-the-hood-calling-objective-c-from-csharp) | EN
 
 ## Series of Articles
 
