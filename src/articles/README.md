@@ -20,7 +20,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Network](article-topics/Network.md)
   - [Performance](article-topics/Performance.md)
   - [Plugins](article-topics/Plugins.md)
-  - [Profiling](#profiling)
   - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
   - [Setup](#setup)
@@ -36,12 +35,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Profiling
-
-Name | Language
----- | --------
-[Performance Profiling Your Xamarin Apps](https://visualstudiomagazine.com/articles/2015/12/01/xamarin-apps.aspx) | EN
 
 ### Setup
 
