@@ -19,7 +19,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [MVVM](article-topics/Mvvm.md)
   - [Network](article-topics/Network.md)
   - [Performance](article-topics/Performance.md)
-  - [Plugins](#plugins)
+  - [Plugins](article-topics/Plugins.md)
   - [Profiling](#profiling)
   - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
@@ -36,12 +36,6 @@ Name | Language
 [Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
 [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
 [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
-
-### Plugins
-
-Name | Language
----- | --------
-[Creating Platform Plugins](https://github.com/mattleibow/CreatingPlatformPlugins) | EN
 
 ### Profiling
 
