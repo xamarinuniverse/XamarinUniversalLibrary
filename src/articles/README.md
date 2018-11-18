@@ -22,18 +22,10 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Plugins](article-topics/Plugins.md)
   - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
-  - [UI](#ui)
   - [Under the Hood](#under-the-hood)
   - [Setup](article-topics/Setup.md)
+  - [UI](article-topics/UI.md)
 - [Series of Articles](series-of-articles)
-
-### UI
-
-Name | Language
----- | --------
-[Custom Fonts with Xamarin.Forms Revisited](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-fonts-with-xamarin-forms-revisited/) | EN
-[Navigation Bar Customization in Xamarin Forms](https://www.xamboy.com/2017/12/06/navigation-bar-customization-in-xamarin-forms/) | EN
-[The Ultimate Guide to Emojis](https://smellyc0de.wordpress.com/2018/04/07/the-ultimate-guide-to-emojis/) | EN
 
 ### Under the Hood
 
