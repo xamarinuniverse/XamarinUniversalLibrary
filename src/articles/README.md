@@ -22,16 +22,10 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Plugins](article-topics/Plugins.md)
   - [ProGuard](article-topics/ProGuard.md)
   - [Security](article-topics/Security.md)
-  - [Setup](#setup)
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
+  - [Setup](article-topics/Setup.md)
 - [Series of Articles](series-of-articles)
-
-### Setup
-
-Name | Language
----- | --------
-[Setting up Xamarin.Android on Linux](https://github.com/0xFireball/xamarin-android-linux) | EN
 
 ### UI
 
