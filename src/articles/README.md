@@ -12,7 +12,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Background services](article-topics/Background-services.md)
   - [Binding Libraries](article-topics/Binding-Libraries.md)
   - [Bluetooth](article-topics/Bluetooth.md)
-  - [Features](#features)
+  - [Features](article-topics/Features.md)
   - [Linker](article-topics/Linker.md)
   - [Media](article-topics/Media.md)
   - [Memory](article-topics/Memory.md)
@@ -26,15 +26,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [UI](#ui)
   - [Under the Hood](#under-the-hood)
 - [Series of Articles](series-of-articles)
-
-
-### Features
-
-Name | Language
----- | --------
-[Loading a Configuration File](https://johnthiriet.com/xamarin-loading-a-configuration-file/) | EN
-[Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/) | EN
-[Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html) | EN
 
 ### Setup
 
