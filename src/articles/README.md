@@ -1,6 +1,6 @@
 # Articles
 
-This section contains the must have to read articles about to Xamarin.
+This section contains the must have to read articles about to Xamarin. Also, you can see [Series of Articles](article-series.md).
 
 ## Want to contribute
 
@@ -25,13 +25,3 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
   - [Setup](article-topics/Setup.md)
   - [UI](article-topics/UI.md)
   - [Under the Hood](article-topics/Under-the-hood.md)
-- [Series of Articles](series-of-articles)
-
-## Series of Articles
-
-Name | Language
----- | --------
-[14 Days To Building An Enterprise Quality Xamarin Forms App](http://xamarinhelp.com/14-days-to-building-an-enterprise-quality-xamarin-forms-app/) | EN
-[31 Days of Xamarin.Android](https://blog.falafel.com/31-days-of-xamarin-android/) | EN
-[52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin) | EN
-[Learning Xamarin.Forms](http://jesseliberty.com/?s=Learning+Xamarin.Forms) | EN
