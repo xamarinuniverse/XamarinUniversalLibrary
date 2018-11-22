@@ -13,13 +13,14 @@ Here we have the following sections:
 - [E-books](/src/e-books)
 - [Images](/src/images/)
 - [Jobs](/src/jobs/)
+- [Newsletters](/src/newsletters)
 - [Podcasts](/src/podcasts)
 - [Resources](/src/resources)
 - [Videos](/src/videos)
 - [Communities](/src/social-networks)
 - Among others, coming soon... :fire:
 
-See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section). 
+See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section).
 
 ## Want to contribute :pencil2:
 
