@@ -15,6 +15,7 @@ Here we have the following sections:
 - [Jobs](/src/jobs/)
 - [Podcasts](/src/podcasts)
 - [Resources](/src/resources)
+- [Tools](/scr/tools)
 - [Videos](/src/videos)
 - [Communities](/src/social-networks)
 - Among others, coming soon... :fire:
