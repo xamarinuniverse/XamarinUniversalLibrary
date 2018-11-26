@@ -1,4 +1,4 @@
-# Xamarin Universal Library :book: 
+# Xamarin Universal Library :book:
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/xamarinuniverse/XamarinUniversalLibrary/pull/new/master) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square)](https://github.com/xamarinuniverse/XamarinUniversalLibrary/graphs/commit-activity) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](#want-to-contribute-pencil2) [![licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/xamarinuniverse/XamarinUniversalLibrary/blob/master/.github/LICENSE.md)
 
 Hi! Welcome to Xamarin Universal Library!
@@ -20,7 +20,7 @@ Here we have the following sections:
 - [Communities](/src/social-networks)
 - Among others, coming soon... :fire:
 
-See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section). 
+See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section).
 
 ## Want to contribute :pencil2:
 
