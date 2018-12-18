@@ -47,7 +47,7 @@ Pull requests will be accepted based on the following:
 
 Great! Good to have you aboard!
 
-You can show off to the world by incorporating this badge into your blog. If you would have it link back to us, that would be totally awesome!
+You can show off to the world by incorporating this badge into your blog, social network, or wherever you want. If you would have it link back to us, that would be totally awesome!
 
 <p aling="center"> 
   <img src="/img/Xamarin%20Universe%20Contibutor%20Badge.png" width="30%" /> 
