@@ -43,6 +43,16 @@ Pull requests will be accepted based on the following:
 1. If you submit the section with a `contributing-guidelines.md`. Please see others guidelines and follow same pattern.
 1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
 
+### Already an author?
+
+Great! Good to have you aboard!
+
+You can show off to the world by incorporating this badge into your blog. If you would have it link back to us, that would be totally awesome!
+
+<p aling="center"> 
+  <img src="/img/Xamarin%20Universe%20Contibutor%20Badge.png" width="30%" /> 
+</p>
+
 ## Want to know more :sunglasses:
 
 > Xamarin Universal Library is not affiliated with Xamarin Inc. or Microsoft. This is a open-source project maintained by the community for the community.
