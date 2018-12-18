@@ -43,7 +43,7 @@ Pull requests will be accepted based on the following:
 1. If you submit the section with a `contributing-guidelines.md`. Please see others guidelines and follow same pattern.
 1. If the section have too much details, please add a linking detail template file in a detail folder. e.g.: `/new-section/detail/example.md/`
 
-### Already an author?
+### Already a contributor?
 
 Great! Good to have you aboard!
 
