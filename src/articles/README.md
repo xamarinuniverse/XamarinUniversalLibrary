@@ -21,6 +21,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 - [Performance](article-topics/Performance.md)
 - [Plugins](article-topics/Plugins.md)
 - [ProGuard](article-topics/ProGuard.md)
+- [Rest Service](article-topics/Rest-Services.md)
 - [Security](article-topics/Security.md)
 - [Setup](article-topics/Setup.md)
 - [UI](article-topics/UI.md)
