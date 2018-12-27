@@ -19,3 +19,4 @@ Name | Description
 [Weekly Xamarin Newsletter](http://weeklyxamarin.com/) | A hand-picked round up of the best Xamarin development links every week. Published every Friday.
 [Xamarin.Forms Good Looking UI Samples](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI) | Samples to show how to create good looking UI with Xamarin.Forms.
 [Xamarin Section of C# Corner](https://www.c-sharpcorner.com/technologies/xamarin) | In this section, you will find various Xamarin related source code samples, articles, tutorials, and tips.
+[Xamarin Presentation decks](https://www.slideshare.net/Xamarin/presentations) | Here is a collection of Xamarin Presentation decks from Microsoft.
