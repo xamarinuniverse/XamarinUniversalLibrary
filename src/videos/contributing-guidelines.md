@@ -10,7 +10,7 @@ Pull requests will be accepted based on the following:
 
 1. The pull request adheres to the repository's [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
 1. If you add the resource in alphabetical order in the list
-1. If you submit the resource and link the `UI/UX in Xamarin by Daniel Monetelli` to it 
+1. If you submit the resource and link the [UI/UX in Xamarin by Daniel Monetelli](https://www.youtube.com/c/danielmonetelli) to it 
 1. If you submit the resource `Development focused on UI/UX in Xamarin`.
 1. If you submit the resource `Daniel Monetelli L.`.
 1. If you submit the resource `Youtube`. (Only the main name of the webpage)
