@@ -22,7 +22,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 - [Plugins](article-topics/Plugins.md)
 - [ProGuard](article-topics/ProGuard.md)
 - [Rest Service](article-topics/Rest-Services.md)
-- [Azure Cognitive Services](article-topics/Azure-Cognitive-Services.md)
+- [AI Apps](article-topics/AI-apps.md)
 - [Security](article-topics/Security.md)
 - [Setup](article-topics/Setup.md)
 - [UI](article-topics/UI.md)
