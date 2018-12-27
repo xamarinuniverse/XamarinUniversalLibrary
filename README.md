@@ -17,6 +17,7 @@ Here we have the following sections:
 - [Resources](/src/resources)
 - [Tools](/src/tools)
 - [Videos](/src/videos)
+- [Presentations](https://www.slideshare.net/Xamarin/presentations)
 - [Communities](/src/social-networks)
 - Among others, coming soon... :fire:
 
