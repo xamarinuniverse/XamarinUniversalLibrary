@@ -1,6 +1,6 @@
 # AI Apps
 
-This topic contains articles about app powere with Artificial Intelligence and built with Xamarin.
+This topic contains articles about apps, which are powered with Artificial Intelligence and built in Xamarin.
 
 ## Vision
 
