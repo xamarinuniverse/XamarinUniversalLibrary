@@ -2,17 +2,15 @@
 
 This topic contains articles about apps, which are powered with Artificial Intelligence and built in Xamarin.
 
-## Vision 
+## Vision
 
 Name | Author | Language
 ---- | ------ | --------
-[Adding Artificial Intelligence (AI) to your Xamarin Apps](https://www.dotnetcurry.com/xamarin/smarter-xamarin-using-cognitive-services) | [Gerald Versluis](https://www.dotnetcurry.com/author/gerald-versluis) | EN
-[Computer Vision API Using Cognitive Service](https://dzone.com/articles/xamarinforms-computer-vision-api-using-cognitive-s) | [Delpin Susai Raj](https://dzone.com/users/3052962/susairajs18.html) | EN
-[Emojifier](https://gameofthreads.online/face-detection-sentiment-analysis-azure-xamarin/) | [Aritra Das](https://twitter.com/aritra__das) | EN
 [Face identification with Azure Cognitive Services Face API](https://www.jimbobbennett.io/face-identification-with-azure-faceapi/) | [Jim Bennet](https://twitter.com/jimbobbennett) | EN
 [FaceOff](https://github.com/brminnick/FaceOff) | [Brandon Minnick](https://twitter.com/TheCodeTraveler) | EN
-[Using Object Detection from inside your Xamarin app](https://blog.xamarin.com/using-object-detection-from-inside-your-xamarin-app/) | [Jim Bennet](https://twitter.com/jimbobbennett) | EN
-
+[Emojifier](https://gameofthreads.online/face-detection-sentiment-analysis-azure-xamarin/) | [Aritra Das](https://twitter.com/aritra__das) | EN
+[Computer Vision API Using Cognitive Service](https://dzone.com/articles/xamarinforms-computer-vision-api-using-cognitive-s) | [Delpin Susai Raj](https://dzone.com/users/3052962/susairajs18.html) | EN
+[Adding Artificial Intelligence (AI) to your Xamarin Apps](https://www.dotnetcurry.com/xamarin/smarter-xamarin-using-cognitive-services) | [Gerald Versluis](https://www.dotnetcurry.com/author/gerald-versluis) | EN
 
 ## Text
 
