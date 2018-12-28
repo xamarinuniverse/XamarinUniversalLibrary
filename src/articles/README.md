@@ -11,6 +11,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 - [Architecture](article-topics/Architecture.md)
 - [Background services](article-topics/Background-services.md)
 - [Binding Libraries](article-topics/Binding-Libraries.md)
+- [Artificial Intelligence](article-topics/Artificial-Intelligence.md)
 - [Bluetooth](article-topics/Bluetooth.md)
 - [Features](article-topics/Features.md)
 - [Linker](article-topics/Linker.md)
