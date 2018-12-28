@@ -1,10 +1,14 @@
-# Architecture
 
-This topic contains articles about Xamarin application architecture.
+# Vision Processing
+
+This topic contains articles about doing mobile vision processing using Xamarin
 
 ## Articles
 
 Name | Author | Language
 ---- | ------ | --------
-[Cross-Platform Architecture](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_2_-_architecture/) | Community | EN
-[Xamarin Forms Architectural Guidance](https://xamarinhelp.com/xamarin-forms-architectural-guidance/) | [Adam Pedley](https://twitter.com/adpedley) | EN
+[Face identification with Azure Cognitive Services Face API](https://www.jimbobbennett.io/face-identification-with-azure-faceapi/) | [Jim Bennet](https://twitter.com/jimbobbennett) | EN
+[FaceOff](https://github.com/brminnick/FaceOff) | [Brandon Minnick](https://twitter.com/TheCodeTraveler) | EN
+[Emojifier](https://gameofthreads.online/face-detection-sentiment-analysis-azure-xamarin/) | [Aritra Das](https://twitter.com/aritra__das) | EN
+[Computer Vision API Using Cognitive Service](https://dzone.com/articles/xamarinforms-computer-vision-api-using-cognitive-s) | [Delpin Susai Raj](https://dzone.com/users/3052962/susairajs18.html) | EN
+[Adding Artificial Intelligence (AI) to your Xamarin Apps](https://www.dotnetcurry.com/xamarin/smarter-xamarin-using-cognitive-services) | [Gerald Versluis](https://www.dotnetcurry.com/author/gerald-versluis) | EN
