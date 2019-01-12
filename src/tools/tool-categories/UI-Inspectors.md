@@ -1,4 +1,4 @@
-# Xamarin Tools
+# UI Inspection Tools
 
 This section contains the tools related to UI inspection.
 
