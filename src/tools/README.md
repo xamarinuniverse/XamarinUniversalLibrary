@@ -11,3 +11,4 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 - [General Development](tool-categories/General-Development.md)
 - [Live Reload](tool-categories/Live-Reload.md)
 - [UI Inspectors](tool-categories/UI-Inspectors.md)
+- [XAML Tools](tool-categories/XAML-tools.md)
