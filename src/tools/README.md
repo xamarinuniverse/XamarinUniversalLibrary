@@ -8,6 +8,6 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
 ## Tool Categories
 
+- [General Development](tool-categories/General-Development.md)
 - [Live Reload](tool-categories/Live-Reload.md)
 - [UI Inspectors](tool-categories/UI-Inspectors.md)
-- [General Development](tool-categories/General-Development.md)
