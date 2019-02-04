@@ -8,4 +8,6 @@ Name | Author | Language
 ---- | ------ | --------
 [Custom Fonts with Xamarin.Forms Revisited](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-fonts-with-xamarin-forms-revisited/) | [Gerald Versluis](https://gerald.verslu.is/) | EN
 [Navigation Bar Customization in Xamarin Forms](https://www.xamboy.com/2017/12/06/navigation-bar-customization-in-xamarin-forms/) | [Rendy Del Rosario](https://www.xamboy.com/) | EN
+[Simple Animations in Xamarin.Forms](https://medium.com/medialesson/simple-animation-in-xamarin-forms-86f035142291) | [Sebastian Jensen](https://www.tsjdev-apps.de) | EN
 [The Ultimate Guide to Emojis](https://smellyc0de.wordpress.com/2018/04/07/the-ultimate-guide-to-emojis/) | [Evgeny Zborovsky](https://smellyc0de.wordpress.com/about/) | EN
+[Xamarin.Essentials — Access cross-platform APIs](https://medium.com/medialesson/xamarin-essentials-access-cross-platform-apis-easily-from-your-xamarin-forms-app-2a75de63b280) | [Sebastian Jensen](https://www.tsjdev-apps.de) | EN
