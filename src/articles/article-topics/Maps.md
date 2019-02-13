@@ -1,6 +1,6 @@
-# Google Maps
+# Maps
 
-This topic contains articles about Implementing Google maps in Xamarin Forms.
+This topic contains articles about implementing Maps in Xamarin Forms.
 
 ## Articles
 
