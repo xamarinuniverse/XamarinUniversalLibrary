@@ -14,7 +14,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 - [Artificial Intelligence](article-topics/Artificial-Intelligence.md)
 - [Bluetooth](article-topics/Bluetooth.md)
 - [Features](article-topics/Features.md)
-- [Google Maps](article-topics/Google-maps.md)
+- [Maps](article-topics/Maps.md)
 - [Linker](article-topics/Linker.md)
 - [Media](article-topics/Media.md)
 - [Memory](article-topics/Memory.md)
