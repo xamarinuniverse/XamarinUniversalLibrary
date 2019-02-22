@@ -9,10 +9,11 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 ## Topics
 
 - [Architecture](article-topics/Architecture.md)
+- [Artificial Intelligence](article-topics/Artificial-Intelligence.md)
 - [Background services](article-topics/Background-Services.md)
 - [Binding Libraries](article-topics/Binding-Libraries.md)
-- [Artificial Intelligence](article-topics/Artificial-Intelligence.md)
 - [Bluetooth](article-topics/Bluetooth.md)
+- [C++](article-topics/Cpp.md)
 - [Features](article-topics/Features.md)
 - [Linker](article-topics/Linker.md)
 - [Maps](article-topics/Maps.md)
