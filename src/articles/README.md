@@ -10,6 +10,7 @@ Contributions are very welcome! Please read the [contribution guidelines](contri
 
 - [Architecture](article-topics/Architecture.md)
 - [Artificial Intelligence](article-topics/Artificial-Intelligence.md)
+- [Augmented Reality](article-topics/Augmented-Reality.md)
 - [Background services](article-topics/Background-Services.md)
 - [Binding Libraries](article-topics/Binding-Libraries.md)
 - [Bluetooth](article-topics/Bluetooth.md)
