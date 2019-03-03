@@ -6,4 +6,6 @@ This section contains the Roadmaps related to Xamarin.
 
 Contributions are very welcome! Please read the [contribution guidelines](contributing-guidelines.md) and send your Pull Request to this repository for all new submissions.
 
-- [Xamarin Learning Path](/src/learning-path)
+## Learning Paths
+
+- [Xamarin Learning Path](learning-path/)
