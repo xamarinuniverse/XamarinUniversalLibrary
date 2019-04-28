@@ -19,6 +19,7 @@ Here we have the following sections:
 - [Tools](/src/tools)
 - [Videos](/src/videos)
 - [Communities](/src/social-networks)
+- [Live Streams](/src/livestreams)
 - Among others, coming soon... :fire:
 
 See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section).
