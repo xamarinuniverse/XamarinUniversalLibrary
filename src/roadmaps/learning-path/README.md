@@ -33,4 +33,3 @@ The roadmap will be helpful for:
 - [Xamarin University - Certification Track](https://university.xamarin.com/content/certification)
 - [IT Shark Mobile - Xamarin Learning Path](https://github.com/it-shark-pro/mobile-xamarin/blob/master/learning-path.md)
 - [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
-- Xamarin Roadmap ([EN](https://luismts.com/blog/xamarin/xamarin-roadmap/), [ES](https://luismts.com/es/blog/xamarin/ruta-de-aprendizaje-xamarin/))
