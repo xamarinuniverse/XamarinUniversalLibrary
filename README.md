@@ -12,7 +12,7 @@ Here we have the following sections:
 - [Courses](/src/courses)
 - [E-books](/src/e-books)
 - [Images](/src/images/)
-- [Jobs](/src/jobs/)
+<!-- - [Jobs](/src/jobs/) -->
 - [Podcasts](/src/podcasts)
 - [Resources](/src/resources)
 - [Roadmaps](/src/roadmaps)
