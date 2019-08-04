@@ -12,3 +12,4 @@ Name | Author | Language
 [Simple Animations in Xamarin.Forms](https://medium.com/medialesson/simple-animation-in-xamarin-forms-86f035142291) | [Sebastian Jensen](https://www.tsjdev-apps.de) | EN
 [The Ultimate Guide to Emojis](https://smellyc0de.wordpress.com/2018/04/07/the-ultimate-guide-to-emojis/) | [Evgeny Zborovsky](https://smellyc0de.wordpress.com/about/) | EN
 [Xamarin.Essentials — Access cross-platform APIs](https://medium.com/medialesson/xamarin-essentials-access-cross-platform-apis-easily-from-your-xamarin-forms-app-2a75de63b280) | [Sebastian Jensen](https://www.tsjdev-apps.de) | EN
+[Design Tools for Xamarin Forms](https://luismts.com/blog/xamarin/design-tools-xamarin-forms/) | [Luis Matos](https://twitter.com/luismatosluna) | EN
