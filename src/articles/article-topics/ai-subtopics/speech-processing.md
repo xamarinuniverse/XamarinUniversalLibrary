@@ -6,5 +6,5 @@ This topic contains articles about doing speech processing using Xamarin
 
 Name | Author | Language
 ---- | ------ | --------
-[Cross platform speech recognition using Xamarin Forms](https://gameofthreads.online/cross-platform-speech-recognition-using-xamarin-forms/) | [Aritra Das](https://twitter.com/aritra__das) | EN
+[Cross platform speech recognition using Xamarin Forms](https://medium.com/@dev.aritradas/xamarin-forms-speech-recognition-c16f07cdf164) | [Aritra Das](https://twitter.com/aritra__das) | EN
 
