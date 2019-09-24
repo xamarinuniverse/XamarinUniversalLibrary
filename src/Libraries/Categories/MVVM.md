@@ -8,9 +8,9 @@ Here are some **Libraries** to use MVVM architecture. **Clic** on the name to go
 | [FreshMvvm](https://github.com/rid00z/FreshMvvm)               | Super light Mvvm Framework designed specifically for Xamarin.Forms.                     |
 | [Infinite-Scroll-Plugin](https://github.com/HBSequence/Sequence.Plugins)  | A Plugin which facilitates forward-only incremental scrolling for a paged data source.  |
 | [MVVMCross](https://github.com/MvvmCross/MvvmCross)               | Cross-platform mvvm mobile development framework.                                       |
-| - [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins)  | A collection of plugins.                                                                |
-| - [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms)                  | MVVMCross Azure Mobile Services plugin.                                                 |
-| - [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms)                | MVVMCross plugin for using Xamarin.Forms.                                               |
+| [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins)  | A collection of plugins.                                                                |
+| [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms)                  | MVVMCross Azure Mobile Services plugin.                                                 |
+| [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms)                | MVVMCross plugin for using Xamarin.Forms.                                               |
 | [MugenMvvmToolkit](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit)        | Cross-platform MVVM toolkit.                                                            |
 | [MVVMLight](http://www.mvvmlight.net/)               | Cross-platform MVVM development framework.                                              |
 | [MvvmNano](https://github.com/aspnetde/MvvmNano)                | Small and smart MVVM framework made with ❤ for Xamarin.Forms.                          |
