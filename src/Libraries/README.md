@@ -4,26 +4,25 @@ This section contains a differents libraries related to xamarin. You can find li
 
 ## Content
 
-    - General
-    - Architecture
-    - Async
-    - Charts
-    - Cloud
-    - Database
-    - Framework
-    - Game Engine
-    - IO/Storage
-    - IOC/DI
-    - Internationalization
-    - Layout
-    - Media
-    - MVVM
-    - Network
-    - Reactive
-    - Security
-    - Serialization
-    - TDD/BDD
-    - UI
-    - Wearable
-    - Xamarin.Forms
-    - XPlat APIs
+- [General](./Categories/General.md)
+- [Architecture](./Categories/Architecture.md)
+- [Async](./Categories/Async.md)
+- [Charts](./Categories/Charts.md)
+- [Database](./Categories/DataBase.md)
+- [Framework](./Categories/Framework.md)
+- [Game Engine](./Categories/GameEngine.md)
+- [IO/Storage](./Categories/IO-Storage.md)
+- [IOC/DI](./Categories/IOC-DI.md)
+- [Internationalization](./Categories/Internationalization.md)
+- [Layout](./Categories/Layout.md)
+- [Media](./Categories/Media.md)
+- [MVVM](./Categories/MVVM.md)
+- [Network](./Categories/Network.md)
+- [Reactive](./Categories/Reactive.md)
+- [Security](./Categories/Security.md)
+- [Serialization](./Categories/Serialization.md)
+- [TDD/BDD](./Categories/TDD-BDD.md)
+- [UI](./Categories/UI.md)
+- [Wearable](./Categories/Wearable.md)
+- [Xamarin.Forms](./Categories/XamarinForms.md)
+- [XPlat APIs](./Categories/XPlatAPIs.md)
