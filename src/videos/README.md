@@ -13,6 +13,7 @@ Name | Description | Author | Platform | Language
 [UI/UX in Xamarin by Daniel Monetelli](https://www.youtube.com/c/danielmonetelli) | Development focused on UI/UX in Xamarin | Daniel Monetelli L. | Youtube | ES 
 [Videos About Xamarin by Houssem Dellai](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ/search?query=xamarin) | Everything related to development using Xamarin | Houssem Dellai | YouTube | EN
 [Xamarin.Android Tutorials](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) | Tutorials on how to use Xamarin.Android to build Android applications. | Joe Rock | YouTube | EN
+[Xamarin Tutorials](https://www.youtube.com/user/Kirasama12/search?query=xamarin) | Tutorials on how to use Xamarin to build mobile applications. | Bert Bosch | YouTube | EN
 [Xamarin.Android Tutorial - Advanced](https://www.youtube.com/playlist?list=PLaoF-xhnnrRV92Y9HlqqutcwwRYm1LjP7) | Tutorials on how to use Xamarin.Android to build Android applications. | EDMT Dev | YouTube | EN
 [Xamarin.Android Tutorial - Beginners](https://www.youtube.com/playlist?list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8) | Tutorials on how to use Xamarin.Android to build Android applications for Absolute Beginner. | EDMT Dev | YouTube | EN
 [Xamarin Official Videos](https://www.youtube.com/user/XamarinVideos) | Official channel about Xamarin. | Xamarin | YouTube | EN
