@@ -6,25 +6,24 @@ This guide to Xamarin.Forms gives an introduction for developers that might be n
 
 ## Topics
 
-1 Hello, Forms! – Our first cross-platform app
-2 Layouting – Positioning your content
-3 Custom views – Beyond Xamarin’s default elements
-4 Persistence – Don’t forget a thing
-5 Navigation – More than flipping pages
-6 List view interaction – Add, delete and pull-to-refresh
-7 Pictures – Spicing up your content
-8 Icons – More than small images
-9 Fonts and vector graphics – Perfect quality on all screens
-10 Web access – Accessing online resources
-11 Geolocation – Navigating the real world
-12 Animations – Putting your app into motion
-13 Internationalization – Teaching your app new languages
-14 Timer – Never miss an action
-15 Camera access – Taking pictures
-16 Styles – Pretty up your UI
-17 Bindings – Linking UI and business logic
-18 Cross-platform strategies – Combine native and shared code
-Imprint
+1. Hello, Forms! – Our first cross-platform app
+2. Layouting – Positioning your content
+3. Custom views – Beyond Xamarin’s default elements
+4. Persistence – Don’t forget a thing
+5. Navigation – More than flipping pages
+6. List view interaction – Add, delete and pull-to-refresh
+7. Pictures – Spicing up your content
+8. Icons – More than small images
+9. Fonts and vector graphics – Perfect quality on all screens
+10. Web access – Accessing online resources
+11. Geolocation – Navigating the real world
+12. Animations – Putting your app into motion
+13. Internationalization – Teaching your app new languages
+14. Timer – Never miss an action
+15. Camera access – Taking pictures
+16. Styles – Pretty up your UI
+17. Bindings – Linking UI and business logic
+18. Cross-platform strategies – Combine native and shared code
 
 ## Author
 
