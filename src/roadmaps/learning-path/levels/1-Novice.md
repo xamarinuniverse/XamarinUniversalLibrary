@@ -5,7 +5,7 @@ Topics about Xamarin for novice level.
 - [ ] Languages
   - [ ] C#
     - [ ] [C# In-Browser Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
-    - [ ] [C# Guide](https://docs.microsoft.com/en-gb/dotnet/csharp/)
+    - [ ] [C# Guide](https://docs.microsoft.com/dotnet/csharp/)
 - [ ] [Introduction to Mobile Development](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/introduction-to-mobile-development)
 - [ ] Xamarin.Android
   - [ ] [Getting Started Series](https://docs.microsoft.com/en-us/xamarin/android/get-started/index)
