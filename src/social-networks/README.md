@@ -19,3 +19,6 @@ Xamarin Universe | [Facebook](https://www.facebook.com/groups/UniversoXamarin/),
 Xamarin Developers France | [Facebook](https://www.facebook.com/groups/xamarindevfrance/) | FR
 Xamarin Developers Group Poland | [Facebook](https://www.facebook.com/groups/XamarinDevelopersGroupPoland/) | PL
 Xamarin Developers Ukraine | [Facebook](https://www.facebook.com/groups/xamarin.ua/), [Telegram](https://t.me/xamarin_ukraine) | UA
+
+
+More [Xamarin & MAUI communities](https://docs.google.com/spreadsheets/d/1GHfZUtlMkPKR7UDDfpYzbneg_OpudlJZkNk1V9pDDNE/edit#gid=0)
