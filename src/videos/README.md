@@ -13,6 +13,7 @@ Name | Description | Author | Platform | Language
 [.NET MAUI by James Montemagno](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjN-kBumQtwAT4p9JZ6pt0c) | Videos about .NET MAUI | James Montemagno | Youtube | EN
 [.NET MAUI for Beginners by James Montemagno](https://www.youtube.com/playlist?list=PLwOF5UVsZWUjNR3roRK79QgBcKLyOX48I) | Videos about .NET MAUI for Beginners | James Montemagno | Youtube | EN
 [.NET MAUI by AshProgHelp Programming Help](https://www.youtube.com/playlist?list=PLprnOV9ZLFnt8mtFGpLGDMCpPVajLzq22) | Videos about .NET MAUI | Md. Ashraful Islam | Youtube | -
+[.NET MAUI by Daniel Hindrikes](https://www.youtube.com/playlist?list=PLNfklfxfM6YiO7fA0fJNO4rrbFLVIk3af) | Videos about .NET MAUI | Daniel Hindrikes | Youtube | EN
 [UI/UX in Xamarin by Daniel Monetelli](https://www.youtube.com/c/danielmonetelli) | Development focused on UI/UX in Xamarin | Daniel Monetelli L. | Youtube | ES 
 [Videos About Xamarin by Gerald Versluis](https://www.youtube.com/c/GeraldVersluis/search?query=xamarin) | Everything related to development using Xamarin | Houssem Dellai | YouTube | EN
 [Videos About Xamarin by Houssem Dellai](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ/search?query=xamarin) | Everything related to development using Xamarin | Gerald Versluis | YouTube | EN
